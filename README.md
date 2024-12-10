@@ -3,7 +3,7 @@ I'm Karthik. I usually go by Axiss. This will probably look a lot better later d
 Mostly only worked on Hardware stuff, but I'm slowly getting here.
 OS:GNU/Linux(EOS)
 
-Known Languages:\n
+Known Languages:
 󰐾Python: The only language I've worked with decently. Would not call myself proficient though.
 󰐾C++: I've recently begun this, as you can see in my repositories.
 󰐾HTML+CSS: I can do most of the basics, but not a lot more.
