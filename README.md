@@ -32,9 +32,9 @@ GNU/Linux (EndeavourOS) · Open source advocate · Milsim gamer
 
 <div align="center">
 
-[![Languages & Tools](https://skillicons.dev/icons?i=c,cpp,python,go,typescript,bun,bash,cmake,linux,blender,neovim,arduino,raspberrypi&theme=dark&perline=6)](https://skillicons.dev)
+[![Languages & Tools](https://skillicons.dev/icons?i=c,cpp,python,go,typescript,bun,bash,cmake,linux,blender,arduino,raspberrypi&theme=dark&perline=6)](https://skillicons.dev)
 
-[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,sublime&theme=dark&perline=6)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,emacs,sublime&theme=dark&perline=6)](https://skillicons.dev)
 
 ![eBPF](https://img.shields.io/badge/eBPF-00ADD8?style=flat-square&logo=linux&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -64,7 +64,7 @@ GNU/Linux (EndeavourOS) · Open source advocate · Milsim gamer
 
 | Project | Description |
 |---|---|
-| **Vector** | Procedural behavioral physics sandbox. Three.js/WASM target. Custom animation pipeline: Cascadeur → Endorphin → Blender → GLHF. |
+| **Vector** | Procedural behavioral physics sandbox. Three.js/WASM target. Custom animation pipeline: Cascadeur → custom tooling → Blender → GLHF. Plan to make it real time generation with WASM. |
 | **[SentinalCore](https://github.com/lqSky7/sentinalcore)** | Linux malware analysis framework. C-based syscall monitor via strace, process tree analysis, sandbox isolation using namespaces and chroot. Co-authored. |
 | **Hack & Solve Platform** | CTF/challenge platform with gVisor Sentry sandbox isolation. Club project, contributor. Intend to fork and revive. |
 | **[WallDo](https://github.com/arora-archit/WallDo)** | Cross-platform Wallhaven client. Electron/React/TypeScript, Wallhaven API integration. Contributor. |
@@ -80,11 +80,11 @@ GNU/Linux (EndeavourOS) · Open source advocate · Milsim gamer
 
 | Component | Specification |
 | :--- | :--- |
-| **System** | MSI Laptop |
-| **OS** | EndeavourOS (Linux) |
+| **System** | MSI Katana A15 |
+| **OS** | EndeavourOS (Linux) + Win11|
 | **GPU** | NVIDIA GeForce RTX 4070 |
-| **CPU** | *[Insert CPU Model]* |
-| **Memory** | *[Insert RAM Amount/Speed]* |
+| **CPU** | Ryzen 9 8945HS |
+| **Memory** | 16GB |
 
 ---
 
