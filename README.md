@@ -100,5 +100,6 @@ GNU/Linux (EndeavourOS) · Open source advocate · Milsim gamer
 
 <!-- BADGE REFERENCES -->
 <!-- To change state, comment out the active one and uncomment the dead one -->
-[status-badge]: https://img.shields.io/badge/state-alive-00FF41?style=flat-square
+<!--[status-badge]: https://img.shields.io/badge/state-alive-00FF41?style=flat-square -->
 <!-- [status-badge]: https://img.shields.io/badge/state-dead-FF0000?style=flat-square -->
+[status-badge]: https://img.shields.io/badge/Triage%20Condition-CAT%20II%20--%20Delayed-yellow?style=flat-square
