@@ -6,7 +6,7 @@
 Low-level systems · Retro software preservation · Hardware-adjacent work  
 GNU/Linux (EndeavourOS) · Open source advocate · Milsim gamer
 
-[![Portfolio](https://img.shields.io/badge/</>-axissprime.vercel.app-00FF41?style=flat-square)](https://axissprime.vercel.app)
+[![Portfolio](https://img.shields.io/badge/</>-axisspri.me-00FF41?style=flat-square)](https://axissprime.vercel.app)
 [![Email](https://img.shields.io/badge/Email-karthik20066002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthik20066002@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-axissprime-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1484978052835573874)
 
